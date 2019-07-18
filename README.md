@@ -5,7 +5,7 @@ This was the 23rd project from the #JavaScript30 that i've completed. I built a 
 
 Things I learned:
 
--populateVoice()
+-SpeechSynthesisUtterance()
 
 Goals:
 
